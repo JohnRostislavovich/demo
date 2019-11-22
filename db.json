@@ -1,7 +1,7 @@
 {
   "media": [
-    { "id": 1, "title": "Post 1", type: "video" },
-    { "id": 2, "title": "Post 2", type: "audio" },
-    { "id": 3, "title": "Post 3", type: "document" }
+    { "id": 1, "title": "Post 1", "type": "video" },
+    { "id": 2, "title": "Post 2", "type": "audio" },
+    { "id": 3, "title": "Post 3", "type": "document" }
   ]
 }
