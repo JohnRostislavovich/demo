@@ -1,34 +1,85 @@
 {
-  "media": [
-    { "id": 1, "title": "Timelapse by me", "type": "video", "createdAt": "2017-03-02 14:52:40.342+01", "url": "https://www.youtube.com/watch?v=GT_BYtJkPqU" },
-    { "id": 2, "title": "IM IVAN - Say Something", "type": "audio", "createdAt": "2014-01-21 14:52:40.342+01", "url": "https://soundcloud.com/jrostislavovich/say-something-featuring-antonina-shtyka-a-great-big-world-official-cover" },
-    { "id": 3, "title": "Become a ninja with angular", "type": "doc", "createdAt": "2019-01-22 14:52:40.342+01", "url": "https://books.ninja-squad.com/public/samples/Become_a_ninja_with_Angular_sample.pdf" },
-    { "id": 4, "title": "Timelapse by me copy", "type": "video", "createdAt": "2019-01-22 10:52:40.342+01", "url": "https://www.youtube.com/watch?v=GT_BYtJkPqU" },
-    { "id": 5, "title": "Timelapse by me another copy", "type": "video", "createdAt": "2015-10-22 14:52:40.342+01", "url": "https://www.youtube.com/watch?v=GT_BYtJkPqU" },
-    { "id": 6, "title": "Timelapse by me copy 2", "type": "video", "createdAt": "2015-11-22 14:52:40.342+01", "url": "https://www.youtube.com/watch?v=GT_BYtJkPqU" },
-    { "id": 7, "title": "Timelapse by me copy 3", "type": "video", "createdAt": "2015-10-12 14:52:40.342+01", "url": "https://www.youtube.com/watch?v=GT_BYtJkPqU" },
-    { "id": 8, "title": "Timelapse by me copy 4", "type": "video", "createdAt": "2015-11-12 14:52:40.342+01", "url": "https://www.youtube.com/watch?v=GT_BYtJkPqU" },
-    { "id": 9, "title": "IM IVAN - Say Something copy", "type": "audio", "createdAt": "2014-03-22 14:52:40.342+01", "url": "https://soundcloud.com/jrostislavovich/say-something-featuring-antonina-shtyka-a-great-big-world-official-cover" },
-    { "id": 10, "title": "IM IVAN - Say Something copy2", "type": "audio", "createdAt": "2014-02-22 14:52:40.342+01", "url": "https://soundcloud.com/jrostislavovich/say-something-featuring-antonina-shtyka-a-great-big-world-official-cover" },
-    { "id": 11, "title": "IM IVAN - Say Something copy3", "type": "audio", "createdAt": "2014-08-22 14:52:40.342+01", "url": "https://soundcloud.com/jrostislavovich/say-something-featuring-antonina-shtyka-a-great-big-world-official-cover" },
-    { "id": 12, "title": "IM IVAN - Say Something 4", "type": "audio", "createdAt": "2014-07-22 14:52:40.342+01", "url": "https://soundcloud.com/jrostislavovich/say-something-featuring-antonina-shtyka-a-great-big-world-official-cover" },
-    { "id": 13, "title": "IM IVAN - Say Something copy 4", "type": "audio", "createdAt": "2014-06-22 14:52:40.342+01", "url": "https://soundcloud.com/jrostislavovich/say-something-featuring-antonina-shtyka-a-great-big-world-official-cover" },
-    { "id": 14, "title": "Become a ninja with angular Copy", "type": "doc", "createdAt": "2019-11-22 14:52:40.342+01", "url": "https://books.ninja-squad.com/public/samples/Become_a_ninja_with_Angular_sample.pdf" },
-    { "id": 15, "title": "Become a ninja with angular Copy2", "type": "doc", "createdAt": "2019-03-22 14:52:40.342+01", "url": "https://books.ninja-squad.com/public/samples/Become_a_ninja_with_Angular_sample.pdf" },
-    { "id": 16, "title": "Become a ninja with angular Copy3", "type": "doc", "createdAt": "2019-02-22 14:52:40.342+01", "url": "https://books.ninja-squad.com/public/samples/Become_a_ninja_with_Angular_sample.pdf" },
-    { "id": 17, "title": "Become a ninja with angular Copy4", "type": "doc", "createdAt": "2019-03-22 14:52:40.342+01", "url": "https://books.ninja-squad.com/public/samples/Become_a_ninja_with_Angular_sample.pdf" },
-    { "id": 18, "title": "Become a ninja with angular Copy5", "type": "doc", "createdAt": "2019-11-22 13:52:40.342+01", "url": "https://books.ninja-squad.com/public/samples/Become_a_ninja_with_Angular_sample.pdf" },
-    { "id": 19, "title": "Image 1", "type": "image", "createdAt": "2016-01-22 14:52:40.342+01", "url": "https://via.placeholder.com/150/FF0000/FFFFFF?text=Image1" },
-    { "id": 10, "title": "Image 2", "type": "image", "createdAt": "2018-12-22 14:52:40.342+01", "url": "https://via.placeholder.com/150/FFF000/FFFFFF?text=Image2" },
-    { "id": 21, "title": "Image 3", "type": "image", "createdAt": "2018-11-22 14:52:40.342+01", "url": "https://via.placeholder.com/150/000000/FFFFFF?text=Image3" },
-    { "id": 22, "title": "Image 4", "type": "image", "createdAt": "2018-10-22 14:52:40.342+01", "url": "https://via.placeholder.com/150/999999/FFFFFF?text=Image4" },
-    { "id": 23, "title": "Image 5", "type": "image", "createdAt": "2018-07-22 14:52:40.342+01", "url": "https://via.placeholder.com/150/FF0000/FFFFFF?text=Image5" },
-    { "id": 24, "title": "Image 6", "type": "image", "createdAt": "2018-08-22 14:52:40.342+01", "url": "https://via.placeholder.com/150/FFF000/FFFFFF?text=Image6" },
-    { "id": 25, "title": "Neurons 1", "type": "i-video", "createdAt": "2019-01-22 14:51:40.342+01", "url": "https://ncase.me/neurons/interactive.html" },
-    { "id": 26, "title": "Neurons 2", "type": "i-video", "createdAt": "2019-11-22 14:52:40.342+01", "url": "https://ncase.me/neurons/interactive.html" },
-    { "id": 27, "title": "Neurons 3", "type": "i-video", "createdAt": "2019-11-12 14:52:40.342+01", "url": "https://ncase.me/neurons/interactive.html" },
-    { "id": 28, "title": "Neurons 4", "type": "i-video", "createdAt": "2019-03-12 14:52:40.342+01", "url": "https://ncase.me/neurons/interactive.html" },
-    { "id": 29, "title": "Neurons 5", "type": "i-video", "createdAt": "2019-03-21 14:52:40.342+01", "url": "https://ncase.me/neurons/interactive.html" },
-    { "id": 30, "title": "Neurons 6", "type": "i-video", "createdAt": "2019-04-24 14:52:40.342+01", "url": "https://ncase.me/neurons/interactive.html" }
+  "cities" :
+  [
+    {
+      "CityName": "Shanghai",
+      "CityImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/PudongSkyline-pjt_%28cropped%29.jpg/125px-PudongSkyline-pjt_%28cropped%29.jpg",
+      "Nation": "China",
+      "NationFlag": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/23px-Flag_of_the_People%27s_Republic_of_China.svg.png",
+      "Population": 24183300,
+      "Description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat"
+    },
+    {
+      "CityName": "Beijing",
+      "CityImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/View_of_Beijing.jpg/125px-View_of_Beijing.jpg",
+      "Nation": "China",
+      "NationFlag": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/23px-Flag_of_the_People%27s_Republic_of_China.svg.png",
+      "Population": 21707000,
+      "Description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat"
+    },
+    {
+      "CityName": "Lagos",
+      "CityImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Lagos_Island.jpg/125px-Lagos_Island.jpg",
+      "Nation": "Nigeria",
+      "NationFlag": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Flag_of_Nigeria.svg/23px-Flag_of_Nigeria.svg.png",
+      "Population": 16060303,
+      "Description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat"
+    },
+    {
+      "CityName": "Istanbul",
+      "CityImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Halic.png/125px-Halic.png",
+      "Nation": "Turkey",
+      "NationFlag": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Turkey.svg/23px-Flag_of_Turkey.svg.png",
+      "Population": 15029231,
+      "Description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat"
+    },
+    {
+      "CityName": "Karachi",
+      "CityImage": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0f/Karachi_rising_skyline.jpg/125px-Karachi_rising_skyline.jpg",
+      "Nation": "Pakistan",
+      "NationFlag": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Flag_of_Pakistan.svg/23px-Flag_of_Pakistan.svg.png",
+      "Population": 14910352,
+      "Description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat"
+    },
+    {
+      "CityName": "Guanzghou",
+      "CityImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Guangzhou_skyline.jpg/125px-Guangzhou_skyline.jpg",
+      "Nation": "China",
+      "NationFlag": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/23px-Flag_of_the_People%27s_Republic_of_China.svg.png",
+      "Population": 13081000,
+      "Description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat"
+    },
+    {
+      "CityName": "Shenzhen",
+      "CityImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Shenzhen_CBD_and_River.jpg/125px-Shenzhen_CBD_and_River.jpg",
+      "Nation": "China",
+      "NationFlag": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/23px-Flag_of_the_People%27s_Republic_of_China.svg.png",
+      "Population": 125283000,
+      "Description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat"
+    },
+    {
+      "CityName": "Mumbai",
+      "CityImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Mumbai_Downtown.jpg/125px-Mumbai_Downtown.jpg",
+      "Nation": "India",
+      "NationFlag": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Flag_of_India.svg/23px-Flag_of_India.svg.png",
+      "Population": 12442373,
+      "Description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat"
+    },
+    {
+      "CityName": "Moscow",
+      "CityImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Moscow-City_%2836211143494%29.jpg/125px-Moscow-City_%2836211143494%29.jpg",
+      "Nation": "Russia",
+      "NationFlag": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Russia.svg/23px-Flag_of_Russia.svg.png",
+      "Population": 12229000,
+      "Description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat"
+    },
+    {
+      "CityName": "São Paulo",
+      "CityImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/MarginalPinheiros.jpg/125px-MarginalPinheiros.jpg",
+      "Nation": "Brazil",
+      "NationFlag": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Brazil.svg/22px-Flag_of_Brazil.svg.png",
+      "Population": 120380000,
+      "Description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat"
+    }
   ]
 }
